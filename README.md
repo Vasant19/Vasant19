@@ -43,9 +43,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" height="30" alt="streamlit logo" />
   </a>
     <img width="12" />
-  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"  height="30" alt="flask logo" />      
-  </a>
+  <div style="background-color: white; display: inline-block; padding: 5px;">
+    <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" height="30" alt="flask logo" />
+    </a>
+  </div>
 </div>
 <img src=/>
 
