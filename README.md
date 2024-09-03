@@ -42,6 +42,10 @@
   <a href="https://streamlit.io/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" height="30" alt="streamlit logo" />
   </a>
+    <img width="12" />
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank">
+    <img src="  https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" height="30" alt="flask logo" />
+  </a>
 </div>
 
 ### Full-Stack Development Tools & Technologies:
