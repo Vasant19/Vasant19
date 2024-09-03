@@ -44,7 +44,7 @@
   </a>
     <img width="12" />
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" height="30" alt="flask logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="30" alt="flask logo" />      
   </a>
 </div>
 
