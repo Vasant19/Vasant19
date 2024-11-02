@@ -79,6 +79,10 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   </a>
+   <img width="12" />
+  <a href="https://www.electronjs.org/" target="_blank">
+    <img src="https://devicon-website.vercel.app/api/electron/original.svg" height="30" alt="electronlogo" />
+  </a>
   <img width="12" />
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
