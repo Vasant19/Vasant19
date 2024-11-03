@@ -89,7 +89,7 @@
   </a>
   <img width="12" />
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" height="30" alt="django logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="30" alt="django logo" />
   </a>
   <img width="12" />
   <a href="https://www.php.net/" target="_blank">
