@@ -99,7 +99,7 @@
   <a href="https://tailwindcss.com">
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindlogo" />
   </a>
-   <img width="12" />
+  <img width="12" />
   <a href="https://graphql.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
   </a>       
