@@ -60,10 +60,6 @@
 ### Full-Stack Development Tools & Technologies:
 <div align="left">
   <img width="12" />
-  <a href="https://www.java.com/en/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="30" alt="java logo" />
-  </a>
-  <img width="12" />
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   </a>
