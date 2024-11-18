@@ -1,5 +1,5 @@
 
-# My Skillse
+# My Skillset
 ### CORE LANGUAGES 
 <div align="left">
   <img width="12" />
