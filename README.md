@@ -131,7 +131,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 
-  [![X](https://img.shields.io/badge/-X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/VasantD14)
+  [![](https://img.shields.io/badge/-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/VasantD14)
 
 
 
