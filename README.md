@@ -101,7 +101,7 @@
   </a>   
 </div>
 
-### Cloud Computing & DevOps Tools & Technologies:
+### Cloud Computing Tools & Technologies:
 <div align="left">
   <img width="12" />
   <a href="https://aws.amazon.com/" target="_blank">
