@@ -2,13 +2,13 @@
 # My Skillset
 ### CORE LANGUAGES 
 <div align="left">
+    <img width="12" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  </a>
   <img width="12" />
   <a href="https://isocpp.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   </a>
    <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
