@@ -68,7 +68,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="30" alt="Nextjs logo" />
   </a>
   <img width="12" />
-  <img width="12" />
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   </a>
