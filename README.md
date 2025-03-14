@@ -68,9 +68,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="30" alt="Nextjs logo" />
   </a>
   <img width="12" />
-  <a href="https://v17.angular.io/guide/what-is-angular" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" height="30" alt="angular logo" />
-  </a>
   <img width="12" />
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
