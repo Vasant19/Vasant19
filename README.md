@@ -122,7 +122,7 @@
 </div>
 
 <div align="center">
-  <h1>Connect with Me:</h1>  
+  <h3>Connect with Me:</h3>  
   <a href="https://www.linkedin.com/in/vasant-dave/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
