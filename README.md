@@ -126,9 +126,9 @@
   <a href="https://www.linkedin.com/in/vasant-dave/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://x.com/VasantD14" target="_blank">
-    <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=X&logoColor=white" height="35" alt="X logo" />
-  </a>
+    <a href="vasant19.github.io/myportfolio" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-8A2BE2" height="35" alt="My Github Page" />
+    </a>
 </div>
 
 
