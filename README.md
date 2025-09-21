@@ -10,9 +10,9 @@
   <a href="https://isocpp.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
   </a>
-   <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   </a>
   
     
@@ -59,10 +59,6 @@
 
 ### Full-Stack Development Tools & Technologies:
 <div align="left">
-  <img width="12" />
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  </a>
   <img width="12" />
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="30" alt="Nextjs logo" />
